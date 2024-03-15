@@ -1,0 +1,2 @@
+java -Xmx10500M -Xms 3571M -jar forge.jar nogui
+pause
